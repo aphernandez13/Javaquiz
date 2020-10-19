@@ -10,7 +10,7 @@ var time = 120;
 var timer;
 var questions = [
   {
-    text: "What is the name of the planet in the Empire Strikes Back where the Rebel Alliance has its base?",
+    text: "What's the name of the planet in the Empire Strikes Back where the Rebel Alliance has its base?",
     options: ["Jakku", "Mustafar", "Tatooine", "Hoth"],
     answer: "Ron Weasly",
   },
